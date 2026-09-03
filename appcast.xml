@@ -1,8 +1,21 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Axis</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 03 Sep 2026 00:22:53 -0400</pubDate>
+            <link>https://zndrrmr.github.io/axis-releases/</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Retires the old mobile snapshot bridge now that Supabase is the sole cross-device sync authority, and hardens release-feed propagation handling.
+]]></description>
+            <enclosure url="https://github.com/ZndrrMr/axis-releases/releases/download/v0.1.0-build.2/Axis.zip" length="7547135" type="application/octet-stream" sparkle:edSignature="32getheS781FnJrYxvdRSpPIiMMMXzBtTNnyvgKBAen3LYA7sBouMKK8sW4DGKU/NeSiKC3BRP6Ves6c+LO3AA=="/>
+        </item>
         <item>
             <title>0.1.0</title>
             <pubDate>Wed, 02 Sep 2026 23:57:54 -0400</pubDate>
@@ -12,10 +25,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[Initial direct-download release with Supabase sync and automatic updates.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/axis-releases/releases/download/v0.1.0-build.1/Axis.zip" length="7549026" type="application/octet-stream" sparkle:edSignature="zXWJHgIPkry2WPzAzmEtwSwovwblIVCFNWaBjpz9BuQ9zRQJwpTgXwyQz6yXgVy+ZHEyRXjgOFtrlbOckchjBw=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/axis-releases/releases/download/v0.1.0-build.1/Axis.zip" length="7549026" type="application/octet-stream" sparkle:edSignature="zXWJHgIPkry2WPzAzmEtwSwovwblIVCFNWaBjpz9BuQ9zRQJwpTgXwyQz6yXgVy+ZHEyRXjgOFtrlbOckchjBw=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: KhFOIXZKFOmGrO5ZzYRKq9vmCNWx95wLM6Ycl5Zn7mvgBLOiaThH+HtLGDR8hgMfuCXXco54AlLzvjqQcns6Bw==
-length: 1257
+</rss>
+<!-- sparkle-signatures:
+edSignature: 8Inm7Y/dHd5Pg2fKnqo3ITkQ1Zxe8UpbgAGe1Wyqbo4FJNxE2R6PEYnK1yO7HAX68Wu0yqI1Nm1YV4YsGfx6AQ==
+length: 2141
 -->
