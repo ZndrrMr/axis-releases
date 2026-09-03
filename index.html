@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>Axis for Mac</title>
+  <style>
+    :root {
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", sans-serif;
+      color: #f7f7fb;
+      background: #09090b;
+    }
+    * { box-sizing: border-box; }
+    body {
+      min-height: 100vh;
+      margin: 0;
+      display: grid;
+      place-items: center;
+      padding: 32px;
+      background:
+        radial-gradient(circle at 20% 10%, rgba(110, 92, 230, .24), transparent 34%),
+        radial-gradient(circle at 85% 80%, rgba(49, 130, 246, .16), transparent 30%),
+        #09090b;
+    }
+    main {
+      width: min(100%, 680px);
+      padding: clamp(32px, 8vw, 72px);
+      border: 1px solid rgba(255,255,255,.1);
+      border-radius: 30px;
+      background: rgba(25,25,29,.82);
+      box-shadow: 0 32px 90px rgba(0,0,0,.4);
+      backdrop-filter: blur(24px);
+    }
+    .mark {
+      width: 72px;
+      height: 72px;
+      display: grid;
+      place-items: center;
+      margin-bottom: 28px;
+      border-radius: 20px;
+      background: linear-gradient(145deg, #8777ff, #4a38c8);
+      box-shadow: 0 18px 40px rgba(91,73,210,.38);
+      font-size: 34px;
+      font-weight: 800;
+    }
+    h1 {
+      margin: 0;
+      font-size: clamp(44px, 10vw, 74px);
+      letter-spacing: -.065em;
+      line-height: .98;
+    }
+    p {
+      max-width: 520px;
+      margin: 22px 0 30px;
+      color: #b5b5bf;
+      font-size: 19px;
+      line-height: 1.55;
+    }
+    a.download {
+      display: inline-flex;
+      align-items: center;
+      min-height: 52px;
+      padding: 0 22px;
+      border-radius: 15px;
+      background: #f7f7fb;
+      color: #111115;
+      text-decoration: none;
+      font-weight: 750;
+    }
+    small {
+      display: block;
+      margin-top: 20px;
+      color: #777780;
+      line-height: 1.45;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="mark" aria-hidden="true">A</div>
+    <h1>Axis for Mac</h1>
+    <p>A focused command center for solo developers. Download Axis, drag it to Applications, and it will keep itself up to date.</p>
+    <a class="download" href="https://github.com/ZndrrMr/axis-releases/releases/latest/download/Axis.dmg">Download for Mac</a>
+    <small>Requires macOS 14 or later. Every release is signed by Apple Developer ID, notarized by Apple, and verified again by Axis before installation.</small>
+  </main>
+</body>
+</html>
