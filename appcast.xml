@@ -7,6 +7,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Axis</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Thu, 03 Sep 2026 21:32:47 -0400</pubDate>
+            <link>https://zndrrmr.github.io/axis-releases/</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Fix Mac sidebar alignment and spacing, remove retired agent controls, return Back through nested issues, move sync workers off the UI thread, and report Codex activity correctly. Exclude the development bootstrap snapshot from installed apps and show exact build identity in Settings.
+]]></description>
+            <enclosure url="https://github.com/ZndrrMr/axis-releases/releases/download/v0.1.0-build.4/Axis.zip" length="6556275" type="application/octet-stream" sparkle:edSignature="AmjAzhtpxP5kS6t+qxpO7Y1yhtakPPne+tW3DTUZN+Qff0MhgEn1a4aEX9D6BhsRRVAiiJZZfoFqoWkrL7zFDA=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Thu, 03 Sep 2026 21:16:45 -0400</pubDate>
             <link>https://zndrrmr.github.io/axis-releases/</link>
             <sparkle:version>3</sparkle:version>
@@ -41,6 +52,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: kGMDPdoLCZXhZ0u/8UtyL7Bof3EBRK2DDrLM3/RvFEPoCCQiWtldrIr15OrgWjsJfVDlcRC9HbKRTfnxWL7BAA==
-length: 3261
+edSignature: ZztvBkSfFJyoAk3XjboNTyptW6ThwKnJ9TmSiYyi5HPeCCmvh0erMNalp6Hct/YOLvxh/3V17BdvilGJvhSPCg==
+length: 4293
 -->
