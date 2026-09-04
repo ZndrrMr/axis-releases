@@ -7,6 +7,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Axis</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Thu, 03 Sep 2026 21:16:45 -0400</pubDate>
+            <link>https://zndrrmr.github.io/axis-releases/</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Fixes macOS sidebar alignment and spacing, nested issue Back navigation, and UI-thread work during foreground synchronization. Axis now displays the Codex-managed queue without legacy agent switches. Shows exact update provenance, improves update reminders, preserves existing workspaces on startup, and removes the legacy bundled workspace snapshot from distributed apps.
+]]></description>
+            <enclosure url="https://github.com/ZndrrMr/axis-releases/releases/download/v0.1.0-build.3/Axis.zip" length="6553289" type="application/octet-stream" sparkle:edSignature="4OuvQxGmaB5yzok06x9sBSruignM2soEDpO47EfUaCmbXUBxH5k/THyY6DkfYEu55dOmXbUrbCnrH5GpOqpWBg=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Thu, 03 Sep 2026 00:22:53 -0400</pubDate>
             <link>https://zndrrmr.github.io/axis-releases/</link>
             <sparkle:version>2</sparkle:version>
@@ -30,6 +41,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 8Inm7Y/dHd5Pg2fKnqo3ITkQ1Zxe8UpbgAGe1Wyqbo4FJNxE2R6PEYnK1yO7HAX68Wu0yqI1Nm1YV4YsGfx6AQ==
-length: 2141
+edSignature: kGMDPdoLCZXhZ0u/8UtyL7Bof3EBRK2DDrLM3/RvFEPoCCQiWtldrIr15OrgWjsJfVDlcRC9HbKRTfnxWL7BAA==
+length: 3261
 -->
