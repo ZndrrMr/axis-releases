@@ -7,6 +7,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Axis</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Thu, 03 Sep 2026 22:19:08 -0400</pubDate>
+            <link>https://zndrrmr.github.io/axis-releases/</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Shows the exact build number in update dialogs and Settings, exposes the running app location, and requires unique increasing build numbers for releases.
+]]></description>
+            <enclosure url="https://github.com/ZndrrMr/axis-releases/releases/download/v0.1.0-build.5/Axis.zip" length="6559573" type="application/octet-stream" sparkle:edSignature="rPlCaljc0O0NgHeVcKFQmT/6wxgucw+yaxlvlowJwWkmLck3eON6Dsg6k6dMLFtbUM6abkSTpEyhuNCZqSOADA=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Thu, 03 Sep 2026 21:32:47 -0400</pubDate>
             <link>https://zndrrmr.github.io/axis-releases/</link>
             <sparkle:version>4</sparkle:version>
@@ -30,6 +41,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: HaNNWlONPCn5y5cka1VgPBcNw7OWX9M3ZCF+Mv0Vm5ulkooNHbVaYJ1HuYwWAKATcVBkygnlGDDxPYCHwdUYCg==
-length: 2580
+edSignature: UwKiICKlFKFEOWoldFeaLC/uKyvJvmz/Ixskj31b/EBC/FH4dbDMDYv/kAu4BMpNtWKrTNpfSGH1IUr4wgucAQ==
+length: 3481
 -->
