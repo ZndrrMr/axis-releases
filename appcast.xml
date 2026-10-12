@@ -7,6 +7,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Axis</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Mon, 12 Oct 2026 15:57:15 -0400</pubDate>
+            <link>https://zndrrmr.github.io/axis-releases/</link>
+            <sparkle:version>200</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Adds Experiments for live Codex prompt work, frozen answer comparisons, prompt diffs, activity and your saved decisions. Uses the same blue inline update button and save/restart flow as Margin.
+]]></description>
+            <enclosure url="https://github.com/ZndrrMr/axis-releases/releases/download/v0.1.0-build.200/Axis.zip" length="6855715" type="application/octet-stream" sparkle:edSignature="I7JwZ0hMnpXT8jswRn0UJcyHaG7UVZik67I4nX3kJifqDerdh9nVUhrMgUvWYwMdePLRt5BfK4Si6ud57hrlDA=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Thu, 03 Sep 2026 22:19:08 -0400</pubDate>
             <link>https://zndrrmr.github.io/axis-releases/</link>
             <sparkle:version>5</sparkle:version>
@@ -41,6 +52,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: UwKiICKlFKFEOWoldFeaLC/uKyvJvmz/Ixskj31b/EBC/FH4dbDMDYv/kAu4BMpNtWKrTNpfSGH1IUr4wgucAQ==
-length: 3481
+edSignature: q3K3igSBHDUL1viOpgVbs3x8LgT0QU9zw46tsoElIzrhu1X2xPFn1sKm6EUxC2QbO6P6Cub2z1qOJ4daDKufAg==
+length: 4426
 -->
