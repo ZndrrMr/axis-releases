@@ -7,6 +7,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Axis</title>
         <item>
             <title>0.2.0</title>
+            <pubDate>Sun, 01 Nov 2026 00:46:55 -0400</pubDate>
+            <link>https://zndrrmr.github.io/axis-releases/</link>
+            <sparkle:version>202</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Axis now stores and syncs data privately through your Mac mini, with durable attachment storage and offline caches.
+]]></description>
+            <enclosure url="https://github.com/ZndrrMr/axis-releases/releases/download/v0.2.0-build.202/Axis.zip" length="4645572" type="application/octet-stream" sparkle:edSignature="UNYLnTywqpI53ljXRGb2NlQXAzoNy59dC8QJa9iKIO8+JsKV7qBdNy8QJTpT08KA6NcLWp8gLSTOzeTTn1MZDg=="/>
+        </item>
+        <item>
+            <title>0.2.0</title>
             <pubDate>Fri, 30 Oct 2026 11:09:56 -0400</pubDate>
             <link>https://zndrrmr.github.io/axis-releases/</link>
             <sparkle:version>201</sparkle:version>
@@ -63,6 +74,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: SlcaVWSOJCu1M32noOg4cGZtjzo3ejXYJMtirA99dHIY8o1YlKKpAoyqw31cuNl8wPIReOGq3ZRBNxagZgY/Aw==
-length: 5301
+edSignature: MdEhEOnSl2gkT7Qf+/uspvm6XN/eXgl4xyRrBjIuqCRSoDbWp87sfb/K085mqZbX6Y9nV3R88jaPYXBh8wjmCA==
+length: 6168
 -->
