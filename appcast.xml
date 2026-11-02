@@ -7,6 +7,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Axis</title>
         <item>
             <title>0.2.0</title>
+            <pubDate>Sun, 01 Nov 2026 19:58:27 -0500</pubDate>
+            <link>https://zndrrmr.github.io/axis-releases/</link>
+            <sparkle:version>204</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Fix repeated workspace scans and hidden-board rendering during Mac navigation, in addition to the background-sync responsiveness repair.
+]]></description>
+            <enclosure url="https://github.com/ZndrrMr/axis-releases/releases/download/v0.2.0-build.204/Axis.zip" length="4643448" type="application/octet-stream" sparkle:edSignature="71ioKHSwFa0Ip/WBROxlUbFrBHbFY/2CM6Ea/kTV3aogTSi5VSY+/LoasWlA3OdGblkITqkYP7rPAy7DY/1XBw=="/>
+        </item>
+        <item>
+            <title>0.2.0</title>
             <pubDate>Sun, 01 Nov 2026 19:52:19 -0500</pubDate>
             <link>https://zndrrmr.github.io/axis-releases/</link>
             <sparkle:version>203</sparkle:version>
@@ -85,6 +96,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: SHEsNQF4zlBJDIkQoZpUg7s6BEBdqbp+iKsMiGyIKAWa2YBTbwXCxpN4HLO9PKQCM9B3qQL3v//Fq+FbILYvCg==
-length: 7032
+edSignature: dLJCoYV47erAW3B7Rq5esq2V+oYyn52aC2szhIEoXG8AgDcFk3k5Sd3A/AeZbDiKZ7tdduYOJdFCEKqTDw1bDw==
+length: 7920
 -->
