@@ -7,6 +7,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Axis</title>
         <item>
             <title>0.2.0</title>
+            <pubDate>Sun, 01 Nov 2026 19:52:19 -0500</pubDate>
+            <link>https://zndrrmr.github.io/axis-releases/</link>
+            <sparkle:version>203</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Fix freezing during sync and refocus; keep workspace import work off the UI thread and reduce catch-up overhead.
+]]></description>
+            <enclosure url="https://github.com/ZndrrMr/axis-releases/releases/download/v0.2.0-build.203/Axis.zip" length="4652867" type="application/octet-stream" sparkle:edSignature="WmXIXshOJemwAPrpvlpdmGA1fMGDoj325M9ZeYZcPOU48BQH31gRXHA4P+MP9kSaqE58sK5HY8sWA7ctNu/DDg=="/>
+        </item>
+        <item>
+            <title>0.2.0</title>
             <pubDate>Sun, 01 Nov 2026 00:46:55 -0400</pubDate>
             <link>https://zndrrmr.github.io/axis-releases/</link>
             <sparkle:version>202</sparkle:version>
@@ -74,6 +85,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: MdEhEOnSl2gkT7Qf+/uspvm6XN/eXgl4xyRrBjIuqCRSoDbWp87sfb/K085mqZbX6Y9nV3R88jaPYXBh8wjmCA==
-length: 6168
+edSignature: SHEsNQF4zlBJDIkQoZpUg7s6BEBdqbp+iKsMiGyIKAWa2YBTbwXCxpN4HLO9PKQCM9B3qQL3v//Fq+FbILYvCg==
+length: 7032
 -->
